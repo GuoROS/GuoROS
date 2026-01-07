@@ -4,9 +4,9 @@
 
 ## 🌱 当前专注领域
 - 工业机器人控制（EtherCAT/ROS）
-- 实时Linux系统开发
+- 实时Linux系统
 - 运动控制算法研究
 
 ## 🛠️ 技术栈
-`C/C++` `Python` `ROS` `EtherCAT` `Linux内核` `CMake` `Git`
+`C/C++` `Python` `ROS` `EtherCAT` `CMake` `Git`
 
